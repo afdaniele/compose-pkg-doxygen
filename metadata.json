@@ -1,0 +1,10 @@
+{
+    "name" : "Doxygen Documentation",
+    "description" : "Provides functionalities for generating code documentation using doxygen",
+    "dependencies" : {
+        "system-packages" : [
+            "doxygen"
+        ],
+        "packages" : []
+    }
+}

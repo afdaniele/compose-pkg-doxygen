@@ -1,0 +1,22 @@
+{
+    "name" : "Documentation",
+    "package" : "doxygen",
+    "menu_entry" : {
+        "order" : 100,
+        "icon" : {
+            "class" : "glyphicon",
+            "name" : "book"
+        },
+        "responsive" : {
+            "priority" : 100
+        },
+        "exclude_roles" : []
+    },
+    "child_pages" : [],
+    "access_level" : [
+        "administrator",
+        "supervisor",
+        "user",
+        "guest"
+    ]
+}
