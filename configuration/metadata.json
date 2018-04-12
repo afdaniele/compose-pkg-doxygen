@@ -1,3 +1,16 @@
 {
-    "configuration_content" : {}
+    "configuration_content" : {
+        "xml_location" : {
+            "title" : "XML (Input) Directory",
+            "type" : "text",
+            "default" : "/tmp/",
+            "details" : "Directory where Doxygen outputs XML files"
+        },
+        "md_location" : {
+            "title" : "MD (Output) Directory",
+            "type" : "text",
+            "default" : "/tmp/",
+            "details" : "Directory where to save the generated Markdown files"
+        }
+    }
 }
