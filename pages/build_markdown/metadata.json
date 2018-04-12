@@ -1,0 +1,9 @@
+{
+    "name" : "Doxygen XML to Markdown",
+    "package" : "doxygen",
+    "menu_entry" : null,
+    "child_pages" : [],
+    "access_level" : [
+        "administrator"
+    ]
+}

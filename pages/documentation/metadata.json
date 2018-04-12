@@ -1,5 +1,5 @@
 {
-    "name" : "Documentation",
+    "name" : "Doxygen Documentation",
     "package" : "doxygen",
     "menu_entry" : {
         "order" : 100,
@@ -12,7 +12,9 @@
         },
         "exclude_roles" : []
     },
-    "child_pages" : [],
+    "child_pages" : [
+        "build_markdown"
+    ],
     "access_level" : [
         "administrator",
         "supervisor",
