@@ -1,9 +1,11 @@
 <?php
 
 class File{
-    function __construct(argument){
-        # code...
-    }
+
+  function __construct($argument){
+    # code...
+  }
+
 }
 
 function get_file_hierarchy(){
