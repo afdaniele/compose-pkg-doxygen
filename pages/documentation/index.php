@@ -1,9 +1,7 @@
 <?php
 # @Author: Andrea F. Daniele <afdaniele>
-# @Date:   Sunday, January 7th 2018
 # @Email:  afdaniele@ttic.edu
 # @Last modified by:   afdaniele
-# @Last modified time: Monday, January 8th 2018
 
 $file = \system\classes\Configuration::$ACTION;
 
